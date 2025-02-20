@@ -1,2 +1,2 @@
 # SystemVerilog
-A repository for projects related to system verilog
+Design of an IEEE-754 floating point arithmetic unit (addition, subtraction) in System Verilog. The provided test bench tests the design for different test cases for add and subtract operations. The system receives input as fixed point numbers and generate corresponding floating point output using fixed_float converter. Finally, the adder/subtractor unit performs arithmetic on two numbers and normalizes the result for single precision floating point output.
